@@ -6,7 +6,7 @@ This package contains the python implementation of the BSM soil model. The model
 
 ## Installation
 ```bash
-pip install -e .
+pip install https://github.com/MarcYin/BSM_soil/archive/refs/heads/main.zip
 ```
 
 The model is implemented in the `bsm` module. The `bsm` module contains the following parameters and their ranges:
